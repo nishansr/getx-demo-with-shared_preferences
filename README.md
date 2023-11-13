@@ -21,8 +21,10 @@
 => intl (for date format)
 
 ## Photos
-![Image 1](light_1.png){: height="300px"}
-![Image 2](light_2.png){: height="300px"}
+<p align="center">
+<img src="light_1.png" width="35%">
+<img src="light_2.png" width="35%">
+<img src="dark_1.png" width="35%">
+<img src="dark_2.png" width="35%">
 
-![Image 1](dark_1.png){: height="300px"}
-![Image 2](dark_2.png){: height="300px"}
+</p>

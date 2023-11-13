@@ -1,16 +1,21 @@
-# groceryapp
+# Nepali App Template
 
-A new Flutter project.
+ This is simple time showing app using getx and shared preferences. Shared Preference is used to keep record of the theme.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screens it contains:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+=> Onboarding
+=> Time Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages used:
+
+=> get (for state management)
+=> shared_preferences (for persistence)
+=> google_fonts (for custom font)
+=> intl (for date format)
+
+## Photos
+![Preview](light_1.png)![Preview](light_2.png)
+![Preview](dark_1.png)![Preview](dark_2.png)

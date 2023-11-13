@@ -7,15 +7,22 @@
 ## Screens it contains:
 
 => Onboarding
+
 => Time Screen
 
 ## Packages used:
 
 => get (for state management)
+
 => shared_preferences (for persistence)
+
 => google_fonts (for custom font)
+
 => intl (for date format)
 
 ## Photos
-![Preview](light_1.png)![Preview](light_2.png)
-![Preview](dark_1.png)![Preview](dark_2.png)
+![Image 1](light_1.png){: width="300px"}
+![Image 2](light_2.png){: width="300px"}
+
+![Image 1](dark_1.png){: width="300px"}
+![Image 2](dark_2.png){: width="300px"}

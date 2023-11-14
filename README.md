@@ -1,4 +1,4 @@
-# Nepali App Template
+# Nepali Time Showing App Template
 
  This is simple time showing app using getx and shared preferences. Shared Preference is used to keep record of the theme.
 
